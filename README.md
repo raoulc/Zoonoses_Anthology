@@ -1,0 +1,2 @@
+# Zoonoses_Anthology
+This repository represents a case study on the "versioning of zoonoses narrative". The anthology serves to store description of zoonotic diseases treatments, from practitioners in veterinary medicine, biology and breeding. The attempt is to create a phisical structure to receive and sustain narrations exchanged within the community of writers and storytellers, concerned in zoonoses in a One Health perspective.
